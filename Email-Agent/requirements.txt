@@ -1,0 +1,7 @@
+google-auth-oauthlib
+google-api-python-client
+ollama
+schedule
+python-dotenv
+mysql-connector-python
+beautifulsoup4
