@@ -1,0 +1,7 @@
+credentials.json
+token.json
+.env
+__pycache__/
+logs/
+*.pyc
+*.csv
